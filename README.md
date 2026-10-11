@@ -166,26 +166,61 @@ A human semantic audit is planned.
 
 
 
-\## Citation
+## Citation
+
+If you use this software in academic research, please cite the
+archived version of the original research implementation:
+
+Velasco, J. L. (2026). *F1000Research corpus construction framework:
+Original research implementation* (Version v1.0.0)
+[Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.23299613
+
+The repository includes a CITATION.cff file containing
+machine-readable citation metadata.
+
+The DOI identifies the specific software version used in the
+research, rather than the repository's subsequent updates.
 
 
 
-Citation information will be provided following publication of the
+## License
 
-associated research article and archival software release.
+The original software developed for this project is distributed
+under the Apache License, Version 2.0.
 
+See the LICENSE file for the full license terms.
 
+Copyright 2026 Jefferson Lewis Velasco.
 
-\## License
+The NOTICE file provides additional authorship and academic
+attribution information.
 
+The Apache 2.0 license permits use, modification, and redistribution
+of the software, subject to its terms, including preservation of
+applicable copyright and attribution notices.
 
+Academic citation is requested as a matter of scholarly practice
+but is not an additional legal requirement of the Apache 2.0 license.
 
-Licensing information is pending.
+**Third-party materials:** The software license does not automatically
+extend to source publications, manuscript versions, reviewer reports,
+author responses, or other third-party materials retrieved from
+F1000Research. These materials remain subject to their respective
+copyright and licensing conditions.
 
+### Release Provenance
 
+Version v1.0.0 represents the original research implementation
+archived on Zenodo (DOI: 10.5281/zenodo.23299613).
 
-The licensing of the implementation is distinct from the licensing
+The LICENSE, CITATION.cff, and NOTICE files were added to the
+main branch after the original release to improve software
+documentation, attribution, and licensing information.
 
-and reuse conditions of the source publications and peer-review records.
+These additions do not modify the original notebook or the
+archived research implementation.
 
+The original notebook is identified by the following SHA-256 checksum:
 
+410F624F4397CA69237E6901D191B24308A1D8C7D23F4174DBC771FF87E84D31
