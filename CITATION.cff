@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the archived version specified below."
+
+type: software
+
+title: "F1000Research Corpus Construction Framework: Original Research Implementation"
+
+authors:
+  - family-names: Velasco
+    given-names: Jefferson Lewis
+
+version: "v1.0.0"
+
+date-released: 2026-10-11
+
+repository-code: "https://github.com/jeffvelascocrm/f1000-peer-review-corpus"
+
+url: "https://github.com/jeffvelascocrm/f1000-peer-review-corpus/releases/tag/v1.0.0"
+
+doi: "10.5281/zenodo.23299613"
+
+license: null
