@@ -1,0 +1,26 @@
+F1000Research Corpus Construction Framework
+Copyright 2026 Jefferson Lewis Velasco
+
+This software was developed as part of the research project:
+
+"Reconstructing Scientific Peer-Review Trajectories:
+A Version-Aware Corpus Construction Framework for Large Language Models"
+
+Original research implementation:
+Version: v1.0.0
+DOI: 10.5281/zenodo.23299613
+
+This software is licensed under the Apache License, Version 2.0.
+
+If you use this software in academic research, please cite:
+
+Velasco, J. L. (2026).
+F1000Research corpus construction framework:
+Original research implementation (Version v1.0.0)
+[Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.23299613
+
+The software license applies to the original code developed
+for this project. Source publications, peer-review reports,
+and other third-party materials remain subject to their
+respective copyright and licensing conditions.
